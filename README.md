@@ -4,3 +4,6 @@ Comparative Analysis of Deep Learning Models for Pneumonia Detection in Chest X-
 ### Dataflow:
 
 ![](https://github.com/SouvikGhosh644/Pneumonia_Detection_Model/blob/main/Document1_page-0001.jpg)
+
+### Results:
+![](https://github.com/SouvikGhosh644/Pneumonia_Detection_Model/blob/main/Document1_page-0001.jpg)
